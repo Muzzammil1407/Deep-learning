@@ -26,7 +26,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/deep-learning-architectures.git
+git clone https://github.com/Muzzammil1407/Deep-learning
 Install dependencies:
 bash
 Copy code
